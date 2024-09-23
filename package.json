@@ -28,7 +28,7 @@
     "i18next-xhr-backend": "^3.2.2",
     "intersection-observer": "^0.12.0",
     "ip-regex": "^4.3.0",
-    "irc-framework": "^4.12.1",
+    "irc-framework": "^4.14.0",
     "json5": "^2.2.0",
     "murmurhash3js": "^3.0.1",
     "sockjs-client": "^1.5.2",
